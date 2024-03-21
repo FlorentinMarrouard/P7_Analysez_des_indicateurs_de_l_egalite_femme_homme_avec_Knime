@@ -8,3 +8,6 @@ tu lui prépares :
 
 un workflow avec le logiciel KNIME qui crée les graphiques du diagnostic ;
 un fichier .csv prêt pour être utilisé dans nos futures analyses via Tableau Software.
+
+je te rappelle que les données issues du SIRH ne sont pas anonymisées, alors il faudra les traiter pour que ton rapport respecte le RGPD.
+
